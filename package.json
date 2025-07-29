@@ -16,7 +16,7 @@
     "react-dom": "^18.3.1",
     "recharts": "^2.12.7",
     "shadcn": "^2.9.3",
-    "tailwind-scrollbar": "^4.0.2"
+    "tailwind-scrollbar": "^3.1.0"
   },
   "devDependencies": {
     "@eslint/js": "^9.9.1",
